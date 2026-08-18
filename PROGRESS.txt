@@ -1,0 +1,36 @@
+2026-08-17 22:50:05 +0800
+
+downloaded: 19/19
+  missing: none
+
+translated: 19/19
+  have *-zn.pdf:
+    - 01_2025_TechRxiv_Survey-RL-VLA-zn.pdf
+    - 02_2025_ICRA_iRe-VLA-zn.pdf
+    - 03_2025_RSS_ConRFT-zn.pdf
+    - 04_2025_NeurIPS_RL4VLA-zn.pdf
+    - 05_2025_arXiv_RIPT-VLA-zn.pdf
+    - 06_2025_arXiv_VLA-RL-zn.pdf
+    - 07_2025_arXiv_piRL-zn.pdf
+    - 08_2026_arXiv_SOP-zn.pdf
+    - 09_2025_arXiv_SimpleVLA-RL-zn.pdf
+    - 10_2025_arXiv_RLinf-VLA-zn.pdf
+    - 11_2025_NeurIPS_SafeVLA-zn.pdf
+    - 12_2025_NeurIPS_APO-zn.pdf
+    - 13_2025_arXiv_GR-RL-zn.pdf
+    - 14_2026_arXiv_World-VLA-Loop-zn.pdf
+    - 15_2026_arXiv_WoVR-zn.pdf
+    - 16_2026_arXiv_TwinRL-zn.pdf
+    - 17_2026_arXiv_IG-RFT-zn.pdf
+    - 18_2026_arXiv_BORA-zn.pdf
+    - 19_2026_arXiv_Temporal-GRPO-zn.pdf
+  in progress:
+    (none)
+  pending:
+    (none)
+
+current step: idle (verified 19/19 *-zn.pdf exist and are valid PDFs)
+last error: none
+next paper: none (all done)
+loop pidfile /tmp/vla-rl-translate-all.pid: 945484 DEAD (no paper_translate/mineru/xelatex running)
+verified: 2026-08-17 22:50 +0800
